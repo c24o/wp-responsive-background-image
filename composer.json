@@ -1,6 +1,7 @@
 {
-    "name": "c24o/responsive-background-image",
+    "name": "c24o/wp-responsive-background-image",
     "description": "PHP library/class to create dynamic styles for background images in WordPress.",
+    "keywords": ["wordpress", "responsive", "background image"],
     "type": "library",
     "license": "MIT",
     "authors": [
